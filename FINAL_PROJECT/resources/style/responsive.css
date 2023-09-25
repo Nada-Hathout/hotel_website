@@ -1,0 +1,585 @@
+@media (max-width: 750px){
+.icon{
+     margin-left: -700px;
+     float: right;
+    /*
+    margin-bottom: 200px; */
+    color: brown;
+}
+
+#res_icon{
+ padding-right: 180px;
+}
+
+
+.logo{
+margin-left: 20px;
+}
+    .second_nav{
+       height: 14%;
+       
+       margin-left:500px;
+      
+    }
+    .logo2{
+        margin-left: 600px;
+    }
+    #myTopnav{
+        width: 550px;
+    }
+    #first_slider{
+        width: 600px;
+    }
+    .btn-book{
+       margin-top: 0px;
+       width: 90px;
+       height: 30px;
+       font-size: .8rem;
+       text-align: center;
+       padding-bottom: 25px;
+    }
+   
+    #secondNavbar{
+        margin-top: 29px;
+       
+        
+    }
+    #iconn{
+        margin-top: -10px;
+    }
+
+
+    .fade-in-text{
+        
+        margin-left: -10px;
+        padding-top: 200px;
+
+
+    }
+    .fade-in-text h1{
+        font-size: 1.2rem;
+        padding-right: 100px;
+    }
+    .fade-in-text h5{
+        font-size: .5rem;
+        padding-right: 100px;
+    }
+
+    .btn-room{
+        
+        width: 150px;
+        height: 28px;
+        margin-top: 5px;
+        margin-right: 290px;
+       padding-right: 30px;
+       padding-left: 20px;
+       padding-bottom: 40px;
+      
+       
+    }
+    .container1{
+        height: 500px;
+        width: 420px;
+        margin-right: 190;
+        margin-left: 30px;
+       
+    }
+    .HOEXR{
+        width: 90%;
+        margin-left: 77px;
+    }
+
+
+    .container-2{
+        display: block;
+       
+    }
+
+    .display{
+        display: block;
+        margin-left: -270px;
+    
+    }
+    #btn1{
+        margin-left: -400px;
+    }
+   
+    .photos{
+        margin-left: -90px;
+        width: 20%;
+    }
+/*  */
+
+.text3{
+    /* margin-left: 50px; */
+    margin-top: 200px;
+    width: 400px;
+    margin-left: 5px;
+}
+.flaticon-light{
+    width: 70px;
+    height: 70px;
+    margin-top: 20px;
+}
+.smaller{
+    font-size: .5rem;
+
+}
+.text3 .smaller img{
+    width: 20px;
+    margin-top: -12px;
+    margin-right: -80px;
+}
+.bigger{
+    font-size: 1.9rem;
+    margin-left: 22px;
+
+}
+.container-2 p{
+    margin-left: 10px
+}
+.res_con2{
+    margin-left: -90px;
+}
+.m_display2{
+    font-size: 1rem;
+}
+.n_display2{
+    font-size: .9rem;
+    padding-left: 100px;
+}
+.service-icon{
+    margin-left: -5px;
+}
+
+.rooms_col1,.rooms_col2{
+    display: block;
+}
+.room-1,.room-2,.room-3,.room-4,.room-5{
+    width: 400px;
+    margin-top: -190px;
+}
+.room-2{
+    margin-left: 50px;
+}
+.room-4,.room-5{
+    margin-left: 0px;
+}
+.mn p{
+    font-size: 0.5rem;
+    margin-top: 31px;
+
+}
+.container-4{
+    display: block;
+}
+.mn ,.food_name{
+    font-size: 0.9rem;
+    margin-top: 10px;
+
+}
+.res_food1{
+    display: flex;
+    margin-left: -65px;
+}
+
+.res_food2{
+    display: flex;
+    margin-left: 0px;
+}
+.footer{
+    display: block;
+    height: auto;
+    width: 900px;
+   }
+   .list li h1,input{
+   margin-left: -80px;
+   }
+   .list p{
+    margin-left: -80px;
+   }
+   .outer{
+   margin-left: 40px;
+   }
+
+   .container-5{
+    width: 600px;
+}
+#news_info{
+    padding-right: 920px;
+}
+#views{
+    margin-left: 50px;
+}
+#views .bigger2{
+    font-size: 2.5rem;
+}
+
+.slider{
+    margin-left: -500px;
+}
+
+#hoexr2{
+    margin-left: -90px
+}
+
+}
+
+
+
+/* about us */
+
+@media(max-width:750px){
+
+    .section-1{
+        width:500px ;
+    }
+    #secondNavbar{
+      margin-left: 50px;
+      padding-bottom: 50px;
+    } 
+    
+    #iconn3{
+        margin-top: -25px;
+    }
+    #book2{
+        margin-right: -20px;
+    }
+    #header_about{
+       /* padding-bottom: 60px; */
+       font-size: 5rem;
+       padding-left: 60px;
+    }
+    .container-6 {
+        display: block;
+    }
+    #responsive_text1{
+        margin-left: 20px;
+    }
+    #responsive_text1 p{
+        margin-left: 5px;
+    }
+    .video{
+        width: 520px;
+    }
+
+    .food{
+        margin-left: -30px;
+    }
+   .last_img{
+        width: 220px;
+    }
+    /* //////////////// */
+    .container-7{
+        display: block;
+    }
+    .HOEXR2 h1,h6{
+        padding-top: 40px;
+        padding-left: 34px;
+    }
+    .inputs{
+        margin-left: 110px;
+    }
+    .inputs3_4{
+       margin-left: -80px;
+    }
+    #xx{
+        margin-right: -50px;
+        margin-left: 30px;
+        width: 150px;
+
+    }
+    /* .btn-check{
+        margin-right: -120px;
+        margin-left: 30px;
+    } */
+   
+
+    .second_half{
+        padding-bottom: 200px;
+    }
+    .row_1 p{
+        margin-left: 7px;
+    }
+/* //////////// */
+
+    .container-8{
+        margin-top: 900px;
+        height: auto;
+        width: 500px;
+    }
+    .section8_diplayflex{
+        display: block;
+    }
+    .container{
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .container p{
+        margin-left: 10px;
+    }
+
+
+}
+
+
+/* rooms & suits */
+
+
+@media(max-width:750px){
+    .container_9{
+        width: 90%;
+    }
+    .container_9_img{
+        width: 90%;
+        height: 300px;
+        margin-top: 120px;
+    }
+
+    .container_9_header .smaller{
+        margin-top: -9px;
+        margin-left: 20px;
+    }
+    .container_9_header h1{
+        /* margin-top: -10px;
+        */
+        margin-left: 50px; 
+        font-size: 2rem;
+    }
+    .container_9_header p{
+        /* margin-top: -10px;
+        */
+        margin-left: 50px; 
+        font-size: 1rem;
+    }
+    .container_9_header button{
+        /* margin-top: -10px;
+        */
+        margin-left: 50px; 
+       
+    }
+    .container_10_img,.container_11_img{
+        width: 90%;
+        margin-top: 90px;
+    }
+
+
+   
+
+}
+
+
+
+/* news */
+
+
+@media(max-width:750px){
+.container_11{
+    display: block;
+    width: auto;
+} 
+.container_11_img{
+    margin-left: 30px;
+}
+.first_col .small_icon ,h3{
+    margin-left: -1px;
+
+}
+
+.first_col h3{
+    margin-left: -78px;
+
+}
+.first_col h1{
+    margin-left: -400px;
+    margin-right: -190px;
+    padding-bottom: 30px;
+}
+.Comment1{
+    margin-right: 180px;
+    margin-left: 40px;
+}
+
+.container_10{
+    display: block;
+}
+.img1_row1,.img2_row1,.img3_row1{
+    margin-left: 70px;
+    margin-bottom: 190px;
+    width: 300px;
+
+}
+
+
+.second_col input{
+    margin-left: 65px;
+}
+
+.second_col .search_icon{
+    margin-left: -91px;
+}
+.posts{
+    margin-left: 70px;
+    height: 800px;
+}
+.infoo{
+    width: 300px;
+    margin-left:10px;
+}
+
+}
+
+/* contact */
+
+
+@media(max-width:750px){
+
+    .container_12{
+        display: block;
+    }
+
+    .left h6{
+        margin-left: -10px;
+    }
+
+    .left h1{
+        margin-left: 19px;
+    }
+
+    .inputs_div .inputs_style{
+        margin-left: 30px;
+    }
+    #message{
+        margin-left: 30px;
+    }
+    .infoo2{
+        margin-left: 10px;
+       
+    }
+    .first_col p{
+        margin-left: -77px;
+    }
+    .right{
+        margin-left: 20px;
+    }
+    .right h6{
+        margin-top: 90px;
+    }
+    .right h1,p{
+        margin-left: 30px;
+    }
+    .Comment1 img{
+        height: 110px;
+    }
+    .the_map{
+        width: 900px;
+    }
+    #send {
+        margin-left: 30px;
+    }
+}
+
+
+
+/* booking */
+
+
+@media(max-width:750px){
+
+.form_booking{
+    margin-left: 0px;
+}
+.about_header{
+    font-size: 2.5rem;
+    padding-right: 100px;
+}
+#address{
+    width: 75%;
+}
+.flexing input{
+    width: 37%;
+
+}
+.flexing select{
+    width: 20%;
+
+}
+.flexing2 input{
+width: 35%;
+}
+
+.submit_btn{
+    width: 75%;
+}
+
+}
+
+/* rooms details */
+
+
+@media(max-width:750px){
+    .container_13{
+        display:block ;
+    }
+    .form_check{
+       margin-left: 30px;
+       margin-top: 690px;
+       width: 90%;
+    }
+    .book_now{
+        margin-left: 110px;
+    }
+
+    .container_13{
+        display: block;
+    }
+
+    .info4 {
+        margin-left: 80px;
+        margin-top: 60px;
+    }
+    .info4 p{
+        margin-left: 0px;
+        margin-top: -10px;
+    }
+    .info4 h1{
+        margin-left: 0px;
+        margin-top: -490px;
+    }
+
+    .posts{
+        margin-top: -20px;
+    }
+    .mnm{
+        margin-top: 250px;
+        margin-left: 40px;
+        width: 410px;
+    }
+    .mnm h5{
+        font-size: 1rem;
+        
+    }
+    .xyz p{
+        margin-left: 40px;
+    }
+    .xyz h3{
+        margin-left: 40px;
+    }
+
+    .vvv{
+        margin-left: 20px;
+    }
+
+    .vvv h4{
+       font-size: .7rem;
+       
+    }
+    .vvv .circle_icon,.circle_icon2,.circle_icon3,.circle_icon4,.circle_icon5,.circle_icon6{
+        width: 60px;
+        height: 60px;
+     }
+     .read_more{
+        margin-left: 140px;
+     }
+
+}
